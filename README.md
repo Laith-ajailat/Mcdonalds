@@ -22,7 +22,7 @@ Maceolands is a simple food ordering website built using HTML, CSS, and JavaScri
 
 🌍 Live Website
 
-(Your link will go here after publishing)
+
 
 📌 Future Improvements
 	•	Real AI integration
